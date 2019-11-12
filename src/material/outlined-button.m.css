@@ -1,0 +1,5 @@
+@import './variables.css';
+
+.root {
+	composes: mdc-button--outlined from '@material/button/dist/mdc.button.css';
+}
